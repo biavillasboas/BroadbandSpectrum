@@ -1,0 +1,27 @@
+{
+  "title": "Source code for: 'A Broadband View of the Sea Surface Height Wavenumber Spectrum'",
+  "creators": [
+    {
+      "name": "Villas Bôas, Ana B.",
+      "affiliation": "California Institute of Technology and Colorado School of Mines",
+      "orcid": "0000-0001-6767-6556"
+    }
+  ],
+  "contributors": [
+    {
+      "type": "Sponsor",
+      "name": "National Aeronautics and Space Administration, grant 80NSSC20K1136"
+    },
+    {
+      "type": "Sponsor",
+      "name": "National Aeronautics and Space Administration, grant 80NSSC19K1004"
+    }
+  ],
+  "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.6075/J0W0963R",
+            "relation": "isSupplementTo"
+        }
+    ]
+}
