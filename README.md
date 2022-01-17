@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5866770.svg)](https://doi.org/10.5281/zenodo.5866770)
+
 
 
 # Source code for 
@@ -63,4 +65,4 @@ from the project root.
 
 If you wish to use the code from this repository, you may cite it as 
 
-Villas Bôas, Ana B. (2022, January 14). !!!!!!!! Add Zenodo reference here !!!!!!!!!!!
+Villas Bôas, Ana B. (2022). Source code for: 'A Broadband View of the Sea Surface Height Wavenumber Spectrum' (v0.1). Zenodo. https://doi.org/10.5281/zenodo.5866770
