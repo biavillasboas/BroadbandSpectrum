@@ -3,8 +3,7 @@
 
 
 # Source code for 
-A. B. Villas Bôas, L. Lenain, B. D. Cornuelle, S. T. Gille, and M. R. Mazloff, A Broadband View of the Sea Surface Height Wavenumber Spectrum, in press, 
-*Geophys. Res. Lett.*, https://doi.org/10.1029/2021GL096699.
+Villas Bôas, A. B., Lenain, L., Cornuelle, B. D., Gille, S. T., & Mazloff, M. R. (2022). A broadband view of the sea surface height wavenumber spectrum. Geophysical Research Letters, 49, e2021GL096699. https://doi.org/10.1029/2021GL096699
 
 # Abstract
 Airborne lidar altimetry can measure the sea surface height (SSH) over scales ranging from hundreds of kilometers to a few meters. 
