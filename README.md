@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5866770.svg)](https://doi.org/10.5281/zenodo.5866770) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biavillasboas/BroadbandSpectrum/HEAD)
 
+🎬 [Watch it on Youtube](https://www.youtube.com/watch?v=4q0VQcf63j8)
+
 
 
 # Source code for 
