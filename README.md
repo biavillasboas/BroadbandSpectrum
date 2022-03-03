@@ -39,7 +39,7 @@ All figures in Villas Bôas et al. (2022) can be reproduced using the Python scr
 
 1. Make a local copy of this repository by either cloning or downloading it.
 
-2. Download the [data](https://doi.org/10.6075/J0W0963R), untar the file, and move directorie `data` to the project root. After doing so, your directory tree should look like this:
+2. Download the [data](https://doi.org/10.6075/J0W0963R), untar the file, and move directory `data` to the project root. After doing so, your directory tree should look like this:
 
 ```
 BroadbandSpectrum/
